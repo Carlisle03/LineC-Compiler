@@ -7,5 +7,5 @@ Powered by CMake
   <img alt="Gradle" src="./src/pixil-frame-0 2.png" width="350px">
 </picture>
 
-# WARNING
+## WARNING
 This project is tested on DARWIN(MacOS) so it may not work properly because of main.sh
