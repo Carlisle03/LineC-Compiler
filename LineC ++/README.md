@@ -15,7 +15,7 @@ This project is tested on DARWIN(MacOS) so it may not work properly because of m
 After you download the file, to run that so...
 ### 1.
 type
-''bash
+'''bash
 ./main.sh
 '''
 ### 2. (OPTIONAL)
